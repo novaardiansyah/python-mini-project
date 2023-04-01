@@ -31,7 +31,7 @@ Thank you for your understanding.
 
 ### Status
 
-![stages](https://img.shields.io/badge/stages-Production-informational)
+![stages](https://img.shields.io/badge/stages-Development-informational)
 [![information](https://img.shields.io/badge/information-References-informational)](https://github.com/novaardiansyah/python-mini-project/blob/main/references.json)
 ![size](https://img.shields.io/github/repo-size/novaardiansyah/python-mini-project?label=size&color=informational)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/novaardiansyah/python-mini-project/blob/main/LICENSE)
